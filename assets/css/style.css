@@ -1,0 +1,20 @@
+.www {
+  color: red;
+}
+/* на величину границы */
+/* #elem{
+width: 100px;
+height: 100px;
+background-color: blue;
+border: solid 5px  red ;
+}
+#elem{
+width: 100px;
+height: 100px;
+background-color: blue;
+border: solid 5px  red ;
+} */
+#elem{
+  width: 100px;
+  height: 100px;background-color: red;
+}
